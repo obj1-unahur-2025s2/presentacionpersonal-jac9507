@@ -10,4 +10,4 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo dos perros, llamados Chester y Heracles
+- Tengo dos perros, llamados Chester (11 años) y Heracles (2 años)
