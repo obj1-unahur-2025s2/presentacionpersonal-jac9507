@@ -10,4 +10,4 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo dos perros
+- Tengo dos perros, llamados Chester y Heracles
