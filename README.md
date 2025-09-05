@@ -5,7 +5,7 @@
 
 ### Datos Personales
 - Mi nombre es: Javier Cáceres
-- Vivo en William Morris
+- Vivo en William Morris(Hurlingham)
 
 
 ### Otra Información
